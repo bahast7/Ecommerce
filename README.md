@@ -14,6 +14,7 @@
 <p align="left"> -Admin Notified CRUD </p>
 <p align="left"> -Content Management </p>
 <p align="left"> -FAQ Management </p>
+<p align="left"> -Localization </p>
 <p align="left">Deployment
 Extract the archive and put it in the folder you want
 Run cp .env.example .env file to copy example file to .env
